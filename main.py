@@ -12,7 +12,7 @@ locais = {
     "pdfs":[".pdf"],
     "csv":[".csv"],
     "packages":[".package"],
-    "prontos para extrair":[".zip",".7z"],
+    "prontos para extrair":[".zip",".7z",'rar'],
     "Arquivos ISO": [".iso"]
 }
 
