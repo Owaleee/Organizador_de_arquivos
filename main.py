@@ -11,7 +11,7 @@ locais = {
     "planilhas": [".xlsx"],
     "pdfs":[".pdf"],
     "csv":[".csv"],
-    "packeges":[".packege"],
+    "packages":[".package"],
     "prontos para extrair":[".zip",".7z"],
     "Arquivos ISO": [".iso"]
 }
